@@ -1,20 +1,12 @@
 
 #include <stdio.h>
-
 /**
-
  * main - Starting point
-
  *
-
  * Description: Displays "with proper grammar, but the outcome is a piece of
-
  * art,"
-
  *
-
  * Return: Always 0 (Success)
-
  */
 
 int main(void)
