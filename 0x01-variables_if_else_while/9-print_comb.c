@@ -1,15 +1,15 @@
 #include <stdio.h>
 /**
-* main - Starting point
-*
-* Description: Combination
-*
-* Return: 0
-*/
+ * main - Starting point
+ *
+ * Description: Combintion
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	int i = 0;
-	
+
 	while (i < 10)
 	{
 		putchar(i + '0');
@@ -18,7 +18,7 @@ int main(void)
 			putchar(44);
 			putchar(32);
 		}
-		i++
+		i++;
 	}
 	putchar('\n');
 
