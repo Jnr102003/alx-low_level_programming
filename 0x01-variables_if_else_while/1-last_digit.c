@@ -2,11 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 /**
-* main - Starting point
-*  Description: Displays the last digit of a random number
-*
-* Return: 0 (Success)
-*/
+ * main - Starting point
+ *  Description: Displays the last digit of a random number
+ *
+ * Return: 0 (Success)
+ */
 
 int main(void)
 {
