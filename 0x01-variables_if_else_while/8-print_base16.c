@@ -1,11 +1,11 @@
 #include <stdio.h>
 /**
-* main - Starting point
-*
-* Description: base 16 numbers in lowecase
-*
-* Return: 0
-*/
+ * main - Starting point
+ *
+ * Description: base 16 numbers in lowercase
+ *
+ * Return: 0
+ */
 int main(void)
 {
 	char c;
@@ -19,7 +19,7 @@ int main(void)
 	{
 		putchar(c);
 	}
-	putchar('\n')
+	putchar('\n');
 
 	return (0);
 }
