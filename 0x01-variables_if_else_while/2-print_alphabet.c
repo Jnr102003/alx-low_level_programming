@@ -2,14 +2,14 @@
 /**
  * main - Starting point
  *
- * Description: Displays all the alphabet in lower case
+ * Description: Displays all the alphabets in lower case
  *
- * Return: Alwyas 0 (Success)
-*/
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	char al;
-	
+
 	al = 'a';
 	while (al <= 'z')
 	{

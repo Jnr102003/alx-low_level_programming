@@ -2,23 +2,17 @@
 /**
  * main - Starting point
  *
- * Description: Combintion
+ * Description: Displays numbers in  different style
  *
  * Return: 0
  */
 int main(void)
 {
-	int i = 0;
+	int i;
 
-	while (i < 10)
+	for (i = 0; i < 10; i++)
 	{
 		putchar(i + '0');
-		if (i < 9)
-		{
-			putchar(44);
-			putchar(32);
-		}
-		i++;
 	}
 	putchar('\n');
 
